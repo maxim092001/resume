@@ -1,8 +1,39 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Text readability
+  github: maxim092001/TextReadability
+  #  quote: >
+  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Utility for determining the readability of the text was created for analyzing readability of documentation in PromoCat company. Moreover, I use it for analyzing resume and posts on telegraph.
+
+- layout: top-middle
+  name: Text editor
+  github: maxim092001/TextEditor
+  #  quote: >
+  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    My first text editor made with Swing GUI. Main feature is searching via regular expressions.
+
+- layout: top-middle
+  name: Quiz engine
+  github: maxim092001/QuizEngine
+  #  quote: >
+  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Backend part of the application for creating and solving quizzes. Example of my projects written on spring boot.
+
+- layout: top-middle
+  name: Quiz engine
+  github: maxim092001/QuizEngine
+  #  quote: >
+  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Backend part of the application for creating and solving quizzes. Example of my projects written on spring boot.
+
+- layout: top-middle
+  name: Text comparsion bot
+  github: maxim092001/TextComparsionBot
+  #  quote: >
+  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Telegram bot made for comparing two texts. Comparison is performed by calculating the cosine distance. Porter's Stemmer improves comparison accuracy.

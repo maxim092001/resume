@@ -3,30 +3,40 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Maxim Grankin
+title: Java developer
+email: maximgran@gmail.com
+phone: +7(962)401-15-60
+
+additional_links:
+  - title: "Telegram"
+    icon: "fa-telegram"
+    url: "https://t.me/VeriuMaxon"
+  - title: "Vk"
+    icon: "fa-vk"
+    url: "https://vk.com/makcoooh"
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  maxim092001
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Maxim and I'm a backend java developer. As well as creating RESTful services I also have experience
+  making fintech software.
+  I have worked at a number of startups and companies.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>Spring boot</mark> and <mark>Algorithms and data structures</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -39,12 +49,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Crossfit
+#   - Gaming
+#   - Knitting
 
 # Footer
 footer_show_references: true
@@ -57,4 +66,13 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
+
+darkmode: true
+
+more_content: | # this will include new lines to allow paragraphs
+  - Passed Java 11 OCA
+  - Passed FCE exam
+  - Multiple champion of the All-Russian Olympiads
+  - Beta tester at JetBrains academy
+  - Volunteer at summer computer schools
