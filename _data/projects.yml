@@ -23,14 +23,6 @@
     Backend part of the application for creating and solving quizzes. Example of my projects written on spring boot.
 
 - layout: top-middle
-  name: Quiz engine
-  github: maxim092001/QuizEngine
-  #  quote: >
-  #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Backend part of the application for creating and solving quizzes. Example of my projects written on spring boot.
-
-- layout: top-middle
   name: Text comparsion bot
   github: maxim092001/TextComparsionBot
   #  quote: >
